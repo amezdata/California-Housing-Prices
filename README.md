@@ -1,4 +1,6 @@
 # California-Housing-Prices
+author: R.H. Amezqueta <br>
+date: 12-15-2024
 
 ## Overview:
 This project focuses on developing and optimizing machine learning models to predict median housing prices in California, leveraging a dataset with features such as geographical location, population density, housing characteristics, and socioeconomic factors. The ultimate goal is to create an accurate and interpretable model that provides actionable insights into the drivers of housing prices while analyzing their economic implications.
